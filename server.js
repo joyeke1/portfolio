@@ -7,6 +7,11 @@ const PORT = process.env.PORT || 3000;
 // Serve static files from "public" folder
 app.use(express.static(path.join(__dirname, "public")));
 
+// Define a GET route for '/'
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'index.html')); // Adjust path if needed
+});
+
 app.listen(PORT, () => {
     console.log(`Server running at http://localhost:${PORT}`);
 });
