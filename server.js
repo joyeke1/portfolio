@@ -15,3 +15,7 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server running at http://localhost:${PORT}`);
 });
+
+function toggleMenu() {
+    document.querySelector("nav ul").classList.toggle("show");
+}
