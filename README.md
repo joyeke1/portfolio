@@ -18,6 +18,7 @@ As a Software Engineer, I love solving real-world problems through clean, mainta
 🎭 Spirit-Free Guarantee
 
 Engine: Unity | Role: Gameplay Programmer
+
 🔗 Play on Itch.io: https://marcustheta.itch.io/spiritfreeguarantee
 
 👾 Programmed complex enemy AI behavior, including detection and pursuit systems
@@ -31,6 +32,7 @@ Skills: C# Unity Multiplayer AI Programming
 🏰 Royal Rebel
 
 Engine: Godot | Role: Combat Systems Programmer
+
 🔗 Play on Itch.io: https://wendyxl.itch.io/royal-rebel-team-3-gold
 
 ⚔️ Designed and programmed the full combat system
@@ -44,6 +46,7 @@ Skills: GDScript, Godot, Combat, Mechanics, Inventory Systems
 🔧 Steamwell (in development)
 
 Engine: Unreal Engine 5 | Role: Lead AI & UI Programmer
+
 🔗 Watch Gameplay: https://www.youtube.com/watch?v=NGK1edIK4jw&ab_channel=TheCreature 
 
 🎯 Designed custom AI patrol and perception systems using Unreal’s Sight Configuration
@@ -57,6 +60,7 @@ Skills: C++, Unreal Engine, AI, UI, SightConfig
 🚀 Shoot the Creeps
 
 Engine: Godot | Type: Personal Project
+
 📦 Download Game: https://github.com/joyeke1/portfolio/releases/tag/v1.0.0
 
 🔫 Developed a pixel-style shooter game from scratch
@@ -70,6 +74,7 @@ Skills: GDScript, Godot, Gameplay, Scripting
 👾 Space Invaders Remake
 
 Framework: Pygame | Type: Personal Project
+
 📦 Download ZIP: images/Space_Invaders_Python.zip
 
 🛸 Recreated the classic arcade experience using Python
