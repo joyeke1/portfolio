@@ -1,6 +1,6 @@
 # Joy Ekechukwu - Gameplay Programmer & Software Engineer Portfolio
 
-🎮 Welcome to my portfolio! 🚀 I’m # Joy Ekechukwu #, a passionate # Gameplay Programmer # and # Software Engineer #. This repository showcases my work in game development, software engineering, and related projects. I strive to blend creativity with technical expertise, building engaging and efficient systems that enhance user experience.
+🎮 Welcome to my portfolio! 🚀 I’m Joy Ekechukwu, a passionate Gameplay Programmer and Software Engineer. This repository showcases my work in game development, software engineering, and related projects. I strive to blend creativity with technical expertise, building engaging and efficient systems that enhance user experience.
 
 👩🏽‍💻 About Me
 
@@ -13,7 +13,7 @@ As a Gameplay Programmer, I specialize in crafting interactive, dynamic game mec
 As a Software Engineer, I love solving real-world problems through clean, maintainable code. I’m always learning something new — whether it’s optimizing performance, exploring new tech stacks, or designing more elegant systems 🔍💡
 
 
-🧩 # Featured Projects
+🧩 Featured Projects
 
 🎭 Spirit-Free Guarantee
 
