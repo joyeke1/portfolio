@@ -107,7 +107,6 @@ Bachelor of Science in Computer Science
 🎯 Graduating 2025
 📚 Specialization in Game Programming & Software Engineering
 
-Get in Touch
 
 📬 Get in Touch!
 
