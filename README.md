@@ -118,6 +118,8 @@ Bachelor of Science in Computer Science
 I’d love to connect! Whether you’re interested in collaborating, chatting about game mechanics, or just nerding out over AI systems — reach out!
 
 📧 Email: amarajoy1@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/joy-ekechukwu/
-💻 GitHub
+
+💻 GitHub: joyeke1
 
